@@ -4,4 +4,4 @@ Hello! If you're reading this, please be aware this repo is under constant const
 
 I am using this repo to teach myself HTML, CSS, and Javascript. Hopefully this will all be useful one day doing some freelance web development.
 
-If you see potential here, and would like to contact me with buisness/job offers, my personal email is austinjmatias@gmail.com
+If you see potential here, and would like to contact me with buisness/job offers, feel free to reach out on GitHub
